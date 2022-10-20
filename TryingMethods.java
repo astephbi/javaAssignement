@@ -2,10 +2,10 @@
 public class TryingMethods {
 
     public static void main(String[] args) {
-        /*
-         * String day = dayWeek(3);
-         * System.out.println(day);
-         */
+        
+          String day = dayWeek(3);
+          System.out.println(day);
+         
         System.out.println((addNumbers()));
     };
 
