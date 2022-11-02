@@ -1,4 +1,4 @@
-//This Class helps me trying a method
+//This Class helps me trying a method. If a method is static, it is available for the class but not for the object. It's not because an object is an instance of a class that every thing that belongs to the Class belongs to the Object
 public class TryingMethods {
 
     public static void main(String[] args) {
@@ -66,6 +66,5 @@ public class TryingMethods {
 
         }
         System.out.println(sumOfEven);
-
     }
 }
